@@ -3,6 +3,7 @@
   "id": "rigmod",
   "version": "${version}",
   "name": "Better Entity Culling",
+  "icon": "icon.png",
   "description": "Client-side entity performance mod",
   "authors": ["You"],
   "environment": "client",
